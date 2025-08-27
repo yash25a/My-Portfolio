@@ -40,7 +40,7 @@ export default function Home() {
       </header>
 
       <section className="flex flex-col items-center text-center py-16" data-aos="fade-up">
-        <h2 className="text-4xl font-extrabold">👋 Hi, I'm Rahul</h2>
+        <h2 className="text-4xl font-extrabold">👋 Hi, I'm Yash</h2>
         <p className="mt-4 text-lg max-w-xl">
           A Frontend Developer passionate about building responsive, modern web apps with 
           <span className="text-blue-500 font-semibold"> React</span>, 
@@ -109,7 +109,7 @@ export default function Home() {
       </section>
 
       <footer className="w-full py-6 text-center border-t border-gray-300 dark:border-gray-700 mt-10">
-        © {new Date().getFullYear()} Rahul | Built with Next.js & Tailwind
+        © {new Date().getFullYear()} Built with Next.js & Tailwind
       </footer>
     </div>
   );
